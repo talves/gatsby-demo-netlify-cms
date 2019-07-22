@@ -13,5 +13,15 @@ gatsby new gatsby-demo-netlify-cms https://github.com/talves/gatsby-demo-netlify
 ```
 npx gatsby new gatsby-demo-netlify-cms https://github.com/talves/gatsby-demo-netlify-cms
 ```
+
+### Ready to run locally
+
+```
+cd gatsby-demo-netlify-cms
+yarn start
+```
+
+The source plugin checks for valid content directories, if they don't exist, which they do not, they are created and if the theme has demo data, that data is copied as the default content.
+
 [theme]: https://github.com/talves/gatsby-theme-demo-netlify-cms
 [source-plugin]: https://github.com/talves/gatsby-theme-netlify-cms
