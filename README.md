@@ -1,5 +1,7 @@
 ## gatsby-demo-netlify-cms
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8ac46750-9841-4633-98d1-95d342e76820/deploy-status)](https://app.netlify.com/sites/gatsby-demo-netlify-cms/deploys)
+
 This project is a Gatsby site using a theme ([`gatsby-theme-demo-netlify-cms`][theme]) that uses the source plugin [`gatsby-source-netlify-cms`][source-plugin]
 
 [![](https://www.netlify.com/img/deploy/button.svg)][deploy-demo]
