@@ -1,7 +1,3 @@
 public/
 node_modules/
 .cache/
-
-content/
-static/
-src/gatsby-theme-netlify-cms
