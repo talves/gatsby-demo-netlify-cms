@@ -4,6 +4,8 @@
 
 This project is a Gatsby site using a theme ([`gatsby-theme-demo-netlify-cms`][theme]) that uses the source plugin [`gatsby-source-netlify-cms`][source-plugin]
 
+### [Demo][demo]
+
 [![](https://www.netlify.com/img/deploy/button.svg)][deploy-demo]
 
 #### To install with gatsby-cli
@@ -30,3 +32,4 @@ The source plugin checks for valid content directories, if they don't exist, whi
 [theme]: https://github.com/talves/gatsby-theme-demo-netlify-cms
 [source-plugin]: https://github.com/talves/gatsby-theme-netlify-cms
 [deploy-demo]: https://app.netlify.com/start/deploy?repository=https://github.com/talves/gatsby-demo-netlify-cms&amp;stack=cms
+[demo]: https://gatsby-demo-netlify-cms.netlify.com/
