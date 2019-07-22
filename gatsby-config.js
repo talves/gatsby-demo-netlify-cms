@@ -1,7 +1,7 @@
 const config = {
   backend: {
     name: "github",
-    repo: "talves/gatsby-theme-demo",
+    repo: "talves/gatsby-theme-demo-netlify-cms",
     branch: "master"
   }
 }
