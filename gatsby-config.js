@@ -4,6 +4,7 @@ const config = {
     repo: "talves/gatsby-theme-demo-netlify-cms",
     branch: "master"
   }
+  display_url: "https://gatsby-demo-netlify-cms.netlify.com/"
 }
 
 module.exports = {
