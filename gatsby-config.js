@@ -3,7 +3,7 @@ const config = {
     name: "github",
     repo: "talves/gatsby-theme-demo-netlify-cms",
     branch: "master"
-  }
+  },
   display_url: "https://gatsby-demo-netlify-cms.netlify.com/"
 }
 
