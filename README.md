@@ -30,6 +30,6 @@ yarn start
 The source plugin checks for valid content directories, if they don't exist, which they do not, they are created and if the theme has demo data, that data is copied as the default content.
 
 [theme]: https://github.com/talves/gatsby-theme-demo-netlify-cms
-[source-plugin]: https://github.com/talves/gatsby-theme-netlify-cms
+[source-plugin]: https://github.com/talves/gatsby-source-netlify-cms
 [deploy-demo]: https://app.netlify.com/start/deploy?repository=https://github.com/talves/gatsby-demo-netlify-cms&amp;stack=cms
 [demo]: https://gatsby-demo-netlify-cms.netlify.com/
